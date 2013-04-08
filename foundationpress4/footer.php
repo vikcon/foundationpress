@@ -27,12 +27,12 @@
 		</div>
 		<!-- /Wrapper -->
 		
-		<!-- Footer JS Scripts -->
+		<!-- Footer JS Scripts 
 		<script>
 			document.write('<script src=' +
 			('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
 			'.js><\/script>')
-		</script>
+		</script> -->
 		<!--Foundation JS in functions.php-->
 		<?php wp_footer(); ?>
 		
