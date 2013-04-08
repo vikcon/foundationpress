@@ -1,9 +1,10 @@
-foundationpress 
-===============
+Foundationpress by Vikram Kulkarni
+=======================================================
 
 Port of Zurb Foundation 4.1.1 to Wordpress 
 
 Porting Zurb Foundation (https://github.com/zurb/foundation) on Wordpress using the html5blank theme (https://github.com/toddmotto/html5blank)
+Respective framework rights are to the respective owners.
 
 This build is work in progress <br/>
 
@@ -25,3 +26,4 @@ This build is work in progress <br/>
 <b>Things suggested but pending </b>
 1. Creating various div ids as per position so that styles can be added from editing style.css<br>
 2. Adding foundation templates as page templates (WORK in progress)
+
