@@ -1,5 +1,6 @@
-Foundationpress by Vikram Kulkarni
+Foundationpress
 =======================================================
+by Vikram Kulkarni (@vikramuk)
 
 Port of Zurb Foundation 4.1.1 to Wordpress 
 
@@ -8,13 +9,13 @@ Respective framework rights are to the respective owners.
 
 This build is work in progress <br/>
 
-<b>Things Working</b>
-1. Responsive working
-2. Page & Posts
-3. Widgets
-4. Single level menu (submenus are not working refer next section)
+<b>Things Working</b> <br>
+1. Responsive working  <br>
+2. Page & Posts <br>
+3. Widgets <br>
+4. Single level menu (submenus are not working refer next section)<br>
 
-<b>Things not Working</b>
+<b>Things not Working</b> <br>
 1. Orbit Slider (JS failure) <br>
 2. Dropdown menu support  (JS failure)<br>
 3. Topbar menu for dropdown.<br>
