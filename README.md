@@ -1,6 +1,6 @@
 Foundationpress
 =======================================================
-by Vikram Kulkarni (@vikramuk)
+by Vikram Kulkarni (@vikramuk)& Veerendra Tikhe (@veeroo18)
 
 Port of Zurb Foundation 4.1.1 to Wordpress 
 
@@ -24,7 +24,7 @@ This build is work in progress <br/>
 6. Paste from MS Word giving issues.<br>
 
 
-<b>Things suggested but pending </b>
-1. Creating various div ids as per position so that styles can be added from editing style.css<br>
-2. Adding foundation templates as page templates (WORK in progress)
+<b>Things suggested but pending </b> <br>
+1. Creating various div ids as per position so that styles can be added from editing style.css <br>
+2. Adding foundation templates as page templates (WORK in progress) <br>
 
