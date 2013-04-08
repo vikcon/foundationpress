@@ -33,7 +33,6 @@
 					<!-- Logo -->
 					<div class="logo">
 						<a href="<?php echo home_url(); ?>">
-							<!-- SVG Logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo">
 						</a>
 					</div>
@@ -47,20 +46,7 @@
 					<br class="clear">
 			<?php if (is_front_page()){?>
 				<div class="row">
-					<?php //include (TEMPLATEPATH . '/inc/banner.php'); ?>
-					<!-- Hardcoded links-->
-					<!--
-					<ul data-orbit>
-					  <li>
-					    <img src="<?php //echo get_template_directory_uri(); ?>/img/orbit/demo1.jpg" />
-					  </li>
-					  <li>
-					    <img src="<?php //echo get_template_directory_uri(); ?>/img/orbit/demo2.jpg" />
-					  </li>
-					  <li>
-					    <img src="<?php //echo get_template_directory_uri(); ?>/img/orbit/demo3.jpg" />
-					  </li>
-					</ul>-->
+					<?php include (TEMPLATEPATH . '/inc/banner.php'); ?>
 				</div>
 			<?php }?>
 			
