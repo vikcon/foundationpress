@@ -24,7 +24,7 @@ This build is work in progress <br/>
 2. Page & Posts <br>
 3. Widgets <br>
 4. Single level menu (submenus are not working refer next section)<br>
-<strong>(Update)</strong>
+<strong>(Update)</strong> <br>
 5. Orbit slider <br>
 6. Mobile nav <br>
 
