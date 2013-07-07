@@ -1,12 +1,12 @@
 <h1>Foundationpress</h1>
-by Vikram Kulkarni (<a href="https://twitter.com/vikramuk">@vikramuk</a>)& Veerendra Tikhe (<a href="https://twitter.com/veeroo18">@veeroo18</a>)
+by Vikram Kulkarni (<a href="https://twitter.com/vikramuk">@vikramuk</a>) & Veerendra Tikhe (<a href="https://twitter.com/veeroo18">@veeroo18</a>)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Update on 07-07-2013
-1. Foundation Updated to 4.2.3 
-2. JS issues fixed
-3. Slider working
-4. Mobile nav working
+<h4Update on 07-07-2013</h4> <br>
+1. Foundation Updated to version 4.2.3 <br>
+2. some JS issues fixed <br>
+3. Slider working <br>
+4. Mobile nav working <br>
 
 foundation.min.js call fixed by Ankur Kaushal (<a href="https://twitter.com/ankurkau">@ankurkau</a>) Thanks man. 
 
@@ -17,7 +17,7 @@ Port of Zurb Foundation 4.1.1 to Wordpress
 Porting Zurb Foundation (https://github.com/zurb/foundation) on Wordpress using the html5blank theme (https://github.com/toddmotto/html5blank)
 Respective framework rights are to the respective owners.
 
-This build is work in progress <br/>
+This build is almost ready except Navigation walker issues <br/>
 
 <b>Things Working</b> <br>
 1. Responsive working  <br>
