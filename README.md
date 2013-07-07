@@ -29,10 +29,10 @@ This build is work in progress <br/>
 6. Mobile nav <br>
 
 <b>Things not Working</b> <br>
-1. <strike>Orbit Slider (JS failure) </strike> (<b>Update</b> Fixed 07-July-2013)<br> 
-2. Dropdown menu support  (JS failure)<br>
-3. Topbar menu for dropdown.<br>
-4. <strike>Mobile nav button is not working ( because of drop down issue)</strike>(<b>Update</b> Fixed 07-July-2013)<br>
+1. <del>Orbit Slider (JS failure) </del> (<b>Update</b> Fixed 07-July-2013)<br> 
+2. Dropdown menu support  (need walker update)<br>
+3. Topbar menu for dropdown. (need walker update)<br>
+4. <del>Mobile nav button is not working (because of drop down issue)</del>(<b>Update</b> Fixed 07-July-2013)<br>
 5. Footer menu / widget area needs to be set<br>
 6. Paste from MS Word giving issues.<br>
 
