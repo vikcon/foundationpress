@@ -108,6 +108,17 @@ function html5blank_header_scripts()
     }
 }
 
+
+if ( ! function_exists( 'foundation_js_init' ) ) :
+
+function foundation_js_init () {
+    echo '<script>jQuery(document).foundation();</script>';
+}
+
+add_action('wp_footer', 'foundation_js_init', 50);
+
+endif;
+
 // Load HTML5 Blank conditional scripts
 function html5blank_conditional_scripts()
 {
