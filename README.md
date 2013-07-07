@@ -1,5 +1,5 @@
 <h1>Foundationpress</h1>
-by Vikram Kulkarni (@vikramuk)& Veerendra Tikhe (@veeroo18)
+by Vikram Kulkarni (<a href="https://twitter.com/vikramuk">@vikramuk</a>)& Veerendra Tikhe (<a href="https://twitter.com/veeroo18">@veeroo18</a>)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Update on 07-07-2013
