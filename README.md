@@ -11,6 +11,7 @@ Update on 07-07-2013
 foundation.min.js call fixed by Ankur Kaushal (<a href="https://twitter.com/ankurkau">@ankurkau</a>) Thanks man. 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 Port of Zurb Foundation 4.1.1 to Wordpress 
 
 Porting Zurb Foundation (https://github.com/zurb/foundation) on Wordpress using the html5blank theme (https://github.com/toddmotto/html5blank)
