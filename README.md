@@ -1,14 +1,14 @@
-Foundationpress
+<h1>Foundationpress</h1>
 =======================================================
 by Vikram Kulkarni (@vikramuk)& Veerendra Tikhe (@veeroo18)
-=======================================================
+======================================================= 
 Update on 07-07-2013
 1. Foundation Updated to 4.2.3 
 2. JS issues fixed
 3. Slider working
 4. Mobile nav working
 
-foundation.min.js call fixed by Ankur Kaushal (@ankurkau) Thanks man. 
+foundation.min.js call fixed by Ankur Kaushal (<a href="https://twitter.com/ankurkau">@ankurkau</a>) Thanks man. 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Port of Zurb Foundation 4.1.1 to Wordpress 
