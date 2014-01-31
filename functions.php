@@ -249,7 +249,6 @@ function html5wp_custom_post()
 // Create the Custom Excerpts callback
 function html5wp_excerpt($length_callback = '', $more_callback = '')
 {
-    global $post;
     if (function_exists($length_callback)) {
         add_filter('excerpt_length', $length_callback);
     }
