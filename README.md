@@ -18,7 +18,7 @@ by Vikram Kulkarni (<a href="https://twitter.com/vikramuk">@vikramuk</a>) & Veer
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<h4Update on 07-07-2013</h4> <br>
+<h4>Update on 07-07-2013</h4> <br>
 1. Foundation Updated to version 4.2.3 <br>
 2. some JS issues fixed <br>
 3. Slider working <br>
